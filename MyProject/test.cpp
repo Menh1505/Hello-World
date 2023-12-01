@@ -8,7 +8,7 @@ int main()
     long double n, k;
     cin >> n >> k;
 
-    cout << n * k;
+    cout << n * n *n ;
 
     return 0;
 }
