@@ -5,10 +5,11 @@ using namespace std;
 
 int main()
 {
-    long double n, k;
-    cin >> n >> k;
+    int n;
+    cout << "Nhap so luong so nguyen";
+    cin >> n;
 
-    cout << n * n *n ;
+    
 
     return 0;
 }
